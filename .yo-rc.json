@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Vinay Patil",
+      "authorEmail": "vinay.hpatil@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
